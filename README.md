@@ -1,4 +1,4 @@
-# EC2 Instance with Key Pair
+# EC2 Instance with Key Pair using Terraform
 
 This project will be used to create an EC2 Instance using Terraform with AWS Key Pair.
 
